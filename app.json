@@ -21,10 +21,23 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.arman0sheikh.SmartSwitchApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bf96ad76-cf60-4b31-9dcd-98fc7914051e"
+      }
+    },
+    "owner": "arman0sheikh",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bf96ad76-cf60-4b31-9dcd-98fc7914051e"
     }
   }
 }
