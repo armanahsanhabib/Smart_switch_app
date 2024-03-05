@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SmartSwitchApp",
-    "slug": "SmartSwitchApp",
+    "name": "Smart Switch",
+    "slug": "Smart Switch",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -22,7 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.arman0sheikh.SmartSwitchApp"
+      "package": "com.arman0sheikh.Smart Switch"
     },
     "web": {
       "favicon": "./assets/favicon.png"
