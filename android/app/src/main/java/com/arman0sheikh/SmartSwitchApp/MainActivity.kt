@@ -1,4 +1,4 @@
-package com.arman0sheikh.Smart Switch
+package com.arman0sheikh.SmartSwitchApp
 
 import android.os.Build
 import android.os.Bundle

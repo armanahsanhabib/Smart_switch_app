@@ -1,4 +1,4 @@
-package com.arman0sheikh.Smart Switch
+package com.arman0sheikh.SmartSwitchApp
 
 import android.app.Application
 import android.content.res.Configuration
