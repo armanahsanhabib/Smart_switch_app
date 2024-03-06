@@ -1,4 +1,4 @@
-rootProject.name = 'SmartSwitchApp'
+rootProject.name = 'Smart Switch'
 
 dependencyResolutionManagement {
   versionCatalogs {
